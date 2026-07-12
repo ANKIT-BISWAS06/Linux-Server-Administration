@@ -9,6 +9,6 @@
 - Cron Jobs
 - Disk Monitoring
 
-Developed by Ashish Lal.
+Developed by ANKIT BISWAS.
 
 # Linux-Server-Administration
